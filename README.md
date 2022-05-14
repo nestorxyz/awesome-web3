@@ -3,7 +3,6 @@ A curated list of awesome web3 tutorials, docs and resources for builders
 
 ## Contents
 - [Solana](#Solana)
-  - Somethins  
 - [Ethereum](#Ethereum)
 
 ## Solana
