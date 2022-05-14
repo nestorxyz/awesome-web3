@@ -2,7 +2,9 @@
 A curated list of awesome web3 tutorials, docs and resources for builders
 
 ## Contents
-- [Awesome Go](#awesome-go)
+- [Solana](#Solana)
+  - Somethins  
+- [Ethereum](#Ethereum)
 
 ## Solana
 * Core docs
@@ -32,4 +34,7 @@ A curated list of awesome web3 tutorials, docs and resources for builders
 * Resources
   * [Nader’s web3 Learning Resources for Developers](https://naderdabit.notion.site/naderdabit/Nader-s-web3-Learning-Resources-for-Developers-a200ed2ef21c4d578dc158df2b882c63)
 * Project Ideas
-  *  
+  *  [Thread by @marmooznet](https://twitter.com/marmooznet/status/1479448890365689860)
+  *  [Thread by @ameeetgaikwad](https://twitter.com/ameeetgaikwad/status/1495256373814337543)
+  *  [Titter, a decentralized web3 chat app by @dabit3](https://twitter.com/dabit3/status/1515698468949573634)
+  *  [Thread by @Haezurath](https://twitter.com/Haezurath/status/1514984760627638272)
